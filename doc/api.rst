@@ -4,4 +4,4 @@ OMSSS API
 =========
 
 OMSSS API documentation is available at
-https://rebilly.github.io/ReDoc/?url=https://raw.githubusercontent.com/strategicdata/omsss/master/swagger.yml
+https://redocly.github.io/redoc/?url=https://raw.githubusercontent.com/strategicdata/omsss/master/swagger.yml
