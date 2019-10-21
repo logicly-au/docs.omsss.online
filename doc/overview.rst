@@ -14,7 +14,9 @@ OMSSS has been integrated into the Primary Mental Health Care Minimum Dataset
 (PMHC MDS) or if used via an Application Programming Interface (API), it can
 be integrated into a Healthcare Provider’s own CMS.
 
-Here is a use case scenario of how it might be integrated into a client
+The process of starting a new 'collection occasion' using the practitioner's 
+Outcome Measure of choice is started by the client.  Here is a use 
+case scenario of how the OMSSS might be integrated into a client
 management system:
 
 * A client books an initial appointment with a practitioner
@@ -29,3 +31,12 @@ management system:
   notified and the CMS can request the individual item scores from OMSSS and
   store them in the CMS’s own database. OMSSS can also optionally be asked
   to email a report of the results to the psychologist
+  
+  (ref diagram)
+
+Features and benefits
+*  Significant reduction in data entry for staff
+*  Automated scoring and integration with PMHC MDS / CMS reduces risk of data entry and scoring errors
+*  An extensible system that can support Outcome Measures in addition to those specified in the PMHC MDS 
+*  An intuitive, accessible client interface that is supported on a range of devices
+*  Greater insight provided into clients’ progress and the efficacy of treatments over a period of time
