@@ -3,36 +3,40 @@
 Overview
 ========
 
+What is the Outcome Measures Self Service System (OMSSS)?
+
 The Outcome Measures Self Service System (OMSSS) is an online service that
 allows clients of psychological services to fill in an Outcome Measure,
 such as the Kessler-5 (K5) and have the individual item scores automatically
-reported back to a third party client management system. This negates the
-need for Healthcare Providers to manually enter measure results into their
-Client Management Systems (CMS).
+reported back to a third party client management system. 
 
 OMSSS has been integrated into the Primary Mental Health Care Minimum Dataset
 (PMHC MDS) or if used via an Application Programming Interface (API), it can
 be integrated into a Healthcare Provider’s own CMS.
 
-The process of starting a new 'collection occasion' using the practitioner's 
-Outcome Measure of choice is started by the client.  Here is a use 
-case scenario of how the OMSSS might be integrated into a client
-management system:
+What does the Outcome Measures Self Service System (OMSSS) do?
 
-* A client books an initial appointment with a practitioner
-* At the time of booking, the member of staff who recorded the appointment
-  can enter the CMS, create a new file for the client and generate what in
-  OMSSS is called a ‘collection’. A ‘collection’ is an instance of a measure
-  assigned to a particular client
-* The CMS will use the OMSSS API to request a new collection
-* OMSSS will send a link or a QR code to the client. When the client follows
-  the link they will be taken to the measure for them to fill in
-* When the client completes the measure in OMSSS, the original CMS will be
-  notified and the CMS can request the individual item scores from OMSSS and
-  store them in the CMS’s own database. OMSSS can also optionally be asked
-  to email a report of the results to the psychologist
+The Outcome Measures Self Service System is accessed by clients of mental health
+services and used to enter Outcome Measures, for example the Kessler-5 (K5).
+Scores are automatically calculated and uploaded into the PMHC MDS or the provider's 
+own CMS if this has been intergrated with the OMSSS using the API.  The information can 
+also be provided in a report to the relevant psychologist.  This automation reduces the 
+administrative workload of clinical staff and minimises the chance of 
+errors.  
+
+How does the Outcome Measures Self Service System (OMSSS) work?
+
+The process of creating a new 'collection' using the practitioner's 
+Outcome Measure of choice is started by the user of the registration system when 
+taking the appointment (for example, a receptionist).  When they send a request 
+for a new 'collection', a link will be sent to the client via email or SMS to complete
+the measure.  The client will then complete the measure using their own device at home
+or in the waiting room prior to the appointment.  The completed questionairre will then 
+automatically be uploaded into the CMS and optionally a report will be emailed to the 
+appropriate psychologist.  Here is an example outlining how the OMSSS might be integrated 
+into a client management system:
   
-  (ref diagram)
+  (ref diagram 2)
 
 Features and benefits
 
