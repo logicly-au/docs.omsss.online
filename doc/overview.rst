@@ -35,6 +35,7 @@ management system:
   (ref diagram)
 
 Features and benefits
+
 *  Significant reduction in data entry for staff
 *  Automated scoring and integration with PMHC MDS / CMS reduces risk of data entry and scoring errors
 *  An extensible system that can support Outcome Measures in addition to those specified in the PMHC MDS 
