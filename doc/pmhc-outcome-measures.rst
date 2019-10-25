@@ -15,9 +15,9 @@ Subject to the appropriate licensing, the following versions of the SDQ can
 be used free of charge to PHNs and their Provider Organisations when the
 data is being reported to the PMHC MDS:
 
-* PC1 - Parent Report Measure for Children aged 4-10, Baseline version
-* PC2 - Parent Report Measure for Children and Adolescents aged 4-10, Follow up version
-* PY1 - Parent Report Measure for Youth aged 11-17, Baseline version
-* PY2 - Parent Report Measure for Youth aged 11-17, Follow up version
-* YR1 - Youth self report measure (11-17), Baseline version, and
-* YR2 - Youth self report measure (11-17), Follow up version
+* PC1 - Parent Report Measure for Children aged 4-10, Baseline Australian version
+* PC2 - Parent Report Measure for Children and Adolescents aged 4-10, Follow up Australian version
+* PY1 - Parent Report Measure for Youth aged 11-17, Baseline Australian version
+* PY2 - Parent Report Measure for Youth aged 11-17, Follow up Australian version
+* YR1 - Youth self report measure (11-17), Baseline Australian version, and
+* YR2 - Youth self report measure (11-17), Follow up Australian version
