@@ -53,7 +53,7 @@ Features and benefits
    to client completion of the measure
 *  Flexibility for provider organisations to use the outcome measure of their choice, including those not
    part of the Primary Mental Health Care Minimum Dataset (PMHC MDS)
-*  Flexibility regarding the treatment of completed questionaries.  Subscales can be uploaded to the PMHC MDS,
+*  Flexibility regarding the treatment of completed questionnaires.  Subscales can be uploaded to the PMHC MDS,
    the provider's own CMS (if integrated with the OMSSS using the API), and reports can be emailed directly
    to the relevant psychologist.
 *  Significant reduction in data entry for staff
