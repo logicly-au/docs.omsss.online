@@ -3,21 +3,6 @@
 Overview
 ========
 
-Features and benefits
-
-*  Flexibility for the OMSSS to be implemented in a way that suits the provider's ways of working and preferred approach
-   to client completion of the measure
-*  Flexibility for provider organisations to use the outcome measure of their choice, including those not
-   part of the Primary Mental Health Care Minimum Dataset (PMHC MDS) 
-*  Flexibility regarding the treatment of completed questionaires.  Subscales can be uploaded to the PMHC MDS, 
-   the provider's own CMS (if integrated with the OMSSS using the API), and reports can be emailed directly
-   to the relevant psychologist.
-*  Significant reduction in data entry for staff
-*  Automated scoring and integration with PMHC MDS / CMS reduces risk of data entry and scoring errors
-*  An extensible system that can support Outcome Measures in addition to those specified in the PMHC MDS 
-*  An intuitive, accessible client interface that is supported on a range of devices
-*  Greater insight provided into clients’ progress and the efficacy of treatments over a period of time
-
 What is the Outcome Measures Self Service System (OMSSS)?
 
 The Outcome Measures Self Service System (OMSSS) is an online service that
@@ -56,5 +41,18 @@ appropriate psychologist.  Here is an example outlining how the OMSSS might be i
 into a client management system:
   
   (ref diagram 2)
+  
+  Features and benefits
 
-
+*  Flexibility for the OMSSS to be implemented in a way that suits the provider's ways of working and preferred approach
+   to client completion of the measure
+*  Flexibility for provider organisations to use the outcome measure of their choice, including those not
+   part of the Primary Mental Health Care Minimum Dataset (PMHC MDS) 
+*  Flexibility regarding the treatment of completed questionairres.  Subscales can be uploaded to the PMHC MDS, 
+   the provider's own CMS (if integrated with the OMSSS using the API), and reports can be emailed directly
+   to the relevant psychologist.
+*  Significant reduction in data entry for staff
+*  Automated scoring and integration with PMHC MDS / CMS reduces risk of data entry and scoring errors
+*  An extensible system that can support Outcome Measures in addition to those specified in the PMHC MDS 
+*  An intuitive, accessible client interface that is supported on a range of devices
+*  Greater insight provided into clients’ progress and the efficacy of treatments over a period of time
