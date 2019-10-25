@@ -9,7 +9,7 @@ Features and benefits
    to client completion of the measure
 *  Flexibility for provider organisations to use the outcome measure of their choice, including those not
    part of the Primary Mental Health Care Minimum Dataset (PMHC MDS) 
-*  Flexibility regarding the treatment of completed questionairres.  Subscales can be uploaded to the PMHC MDS, 
+*  Flexibility regarding the treatment of completed questionaires.  Subscales can be uploaded to the PMHC MDS, 
    the provider's own CMS (if integrated with the OMSSS using the API), and reports can be emailed directly
    to the relevant psychologist.
 *  Significant reduction in data entry for staff
@@ -38,7 +38,7 @@ What does the Outcome Measures Self Service System (OMSSS) do?
 The Outcome Measures Self Service System is accessed by clients of mental health
 services and used to enter Outcome Measures, for example the Kessler-5 (K5).
 Subscales and totals are automatically calculated and item scores and totals are uploaded 
-into the PMHC MDS or the provider's own CMS if this has been intergrated with the OMSSS 
+into the PMHC MDS or the provider's own CMS if this has been integrated with the OMSSS 
 using the API.  The information can also be provided in a report to the relevant psychologist.  
 This automation reduces the administrative workload of clinical staff and minimises the chance of 
 errors.  
