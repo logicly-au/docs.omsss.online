@@ -1,9 +1,9 @@
 .. _pmhc-outcome-measures:
 
-Outcome Measures available as part of the Primary Mental Healthcare Minimum Data Set
-------------------------------------------------------------------------------------
+Outcome Measures available as part of the PMHC MDS
+--------------------------------------------------
 
-OMSSS was initially funded by the Department of Health as part of thePMHC
+OMSSS was initially funded by the Department of Health as part of the
 Primary Mental Healthcare Minimum Data Set (PMHC MDS). Primary Health Networks (PHNs)
 and their Provider Organisations can use the following measures free of
 charge when the data is being reported to the PMHC MDS:
