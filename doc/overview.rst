@@ -19,8 +19,8 @@ be integrated into a Healthcare Provider’s own CMS.  Providers are able to cho
 whether the clients can complete the measure in their own homes before their
 appointment, or on the provider's device at their clinic.
 
-What does the Outcome Measures Self Service System (OMSSS) do?
---------------------------------------------------------------
+What does it do?
+----------------
 
 The Outcome Measures Self Service System is accessed by clients of mental health
 services and used to enter Outcome Measures, for example the Kessler-5 (K5).
@@ -30,8 +30,8 @@ using the API.  The information can also be provided in a report to the relevant
 This automation reduces the administrative workload of clinical staff and minimises the chance of
 errors.
 
-How does the Outcome Measures Self Service System (OMSSS) work?
----------------------------------------------------------------
+How does it work?
+-----------------
 
 The process of creating a new 'collection' using the practitioner's
 Outcome Measure of choice is started by the user of the registration system when
