@@ -17,7 +17,8 @@ system. All enquiries should be directed to: support@pmhc-mds.com.
 
    overview
    pmhc-outcome-measures
-   non-pmhc-outcome-measures
+   licensing-arrangements
+   permitted-uses-of-omsss
    api
    data-security-privacy
    change-log

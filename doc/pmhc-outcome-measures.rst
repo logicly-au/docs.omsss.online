@@ -3,21 +3,18 @@
 Outcome Measures available as part of the PMHC MDS
 --------------------------------------------------
 
-OMSSS was initially funded by the Department of Health as part of the
-Primary Mental Healthcare Minimum Data Set (PMHC MDS). Primary Health Networks (PHNs)
-and their Provider Organisations can use the following measures free of
-charge when the data is being reported to the PMHC MDS:
+Subject to the permitted uses described below, OMSSS can be used by PHNs and
+their commissioned provider organisations to collect any of the following
+outcome measures mandated in the PMHC MDS:
 
-* Kessler 5 - K5
-* Kessler 10 Plus - K10+
+* `Kessler 5 (K5) <https://pmhc-mds.com/doc/pmhc-scoring-k5.pdf>`_
+* `Kessler 10 Plus (K10+) <https://pmhc-mds.com/doc/pmhc-scoring-k10p.pdf>`_
+* Strengths and Difficulties Questionnaire (SDQ) - Australian versions mandated for
+  specialised and primary mental health care, specifically:
 
-Subject to the appropriate licensing, the following versions of the SDQ can
-be used free of charge to PHNs and their Provider Organisations when the
-data is being reported to the PMHC MDS:
-
-* PC1 - Parent Report Measure for Children aged 4-10, Baseline Australian version
-* PC2 - Parent Report Measure for Children and Adolescents aged 4-10, Follow up Australian version
-* PY1 - Parent Report Measure for Youth aged 11-17, Baseline Australian version
-* PY2 - Parent Report Measure for Youth aged 11-17, Follow up Australian version
-* YR1 - Youth self report measure (11-17), Baseline Australian version, and
-* YR2 - Youth self report measure (11-17), Follow up Australian version
+  * PC1 - Parent Report Measure for Children aged 4-10, Baseline Australian version
+  * PC2 - Parent Report Measure for Children and Adolescents aged 4-10, Follow up Australian version
+  * PY1 - Parent Report Measure for Youth aged 11-17, Baseline Australian version
+  * PY2 - Parent Report Measure for Youth aged 11-17, Follow up Australian version
+  * YR1 - Youth self report measure (11-17), Baseline Australian version, and
+  * YR2 - Youth self report measure (11-17), Follow up Australian version
