@@ -1,7 +1,7 @@
 .. _api:
 
-OMSSS API
-=========
+API
+===
 
 The OMSSS API allows third parties to embed the OMSSS measure collection
 cycle within their own systems and business processes. A request may be
