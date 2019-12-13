@@ -14,7 +14,11 @@ This number is returned to the integrator's system and the integrator then assoc
 that number with the client in the integrator's system. Therefore, when used in the
 context of the PMHC MDS no identifying information is stored in OMSSS.
 
-Data is not stored long term in OMSSS - [TODO: Add in times].
+Data is not stored long term in OMSSS. You can only submit a collection for up
+to 7 days after it is created. Once a collection is submitted the results are stored
+until the integrator retrieves them up to a maximum of 7 days. After 7 days the data
+will be deleted and the integrator will no longer be able to retrieve the results.
+Once any of the above expiry times have been hit, all data except logs are deleted.
 
 The client's personal information and the results of their outcome measures will
 be sent only to their health care provider and stored in the PMHC MDS either
