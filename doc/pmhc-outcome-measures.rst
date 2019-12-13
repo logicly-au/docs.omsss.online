@@ -1,7 +1,7 @@
-.. _pmhc-outcome-measures:
+.. _available-outcome-measures:
 
-Outcome Measures available as part of the PMHC MDS
---------------------------------------------------
+Available outcome measures
+--------------------------
 
 Subject to the permitted uses described below, OMSSS can be used by PHNs and
 their commissioned provider organisations to collect any of the following
