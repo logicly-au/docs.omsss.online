@@ -63,6 +63,8 @@ need to be recorded in the PMHC MDS as ‘No’ and changed to ‘Yes’ after c
 has been obtained. Here is a diagram outlining how the OMSSS might be integrated
 into a client management system:
 
+TODO: Have the figures been moved above the words? See last sentence.
+
 Example 2: Outcome measure completed by client at Provider’s service delivery centre
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
