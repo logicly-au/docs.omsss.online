@@ -44,9 +44,6 @@ existing processes:
 Example 1: Outcome measure sent to client to complete before their first appointment
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. figure:: figures/how-does-omsss-work-example-1.svg
-   :alt: How does OMSSS work - Example 1
-
 In this example, the process of creating a new 'collection' using the practitioner's
 outcome measure of choice is started by the user of the registration system when
 taking the appointment (for example, a receptionist).  When they send a request
@@ -61,11 +58,13 @@ need to be recorded in the PMHC MDS as ‘No’ and changed to ‘Yes’ after c
 has been obtained. Here is a diagram outlining how the OMSSS might be integrated
 into a client management system:
 
+.. figure:: figures/how-does-omsss-work-example-1.svg
+   :alt: How does OMSSS work - Example 1
+
+.. TODO: Update figures when Bill has approved the examples.
+
 Example 2: Outcome measure completed by client at Provider’s service delivery centre
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-.. figure:: figures/how-does-omsss-work-example-2.svg
-   :alt: How does OMSSS work - Example 2
 
 In this example, the process of creating a new ‘collection’ using the
 practitioner’s outcome measure of choice is started by the user of the
@@ -79,6 +78,10 @@ be uploaded into the CIMS and optionally a report will be emailed to the
 appropriate service provider. Once again, please remember that appropriate data
 collection consent processes need to be built into this process.
 
+.. figure:: figures/how-does-omsss-work-example-2.svg
+   :alt: How does OMSSS work - Example 2
+
+.. TODO: Update figures when Bill has approved the examples.
 
 Features and benefits
 ---------------------
