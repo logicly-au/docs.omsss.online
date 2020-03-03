@@ -26,10 +26,6 @@ and the integrator will no longer be able to retrieve the results. Once any of
 the above expiry times have been hit, all data except logs are deleted. The
 logs do not contain personally identifying information.
 
-TODO: clarify what is collected below. Maybe separate out the use cases?
-TODO: AC says: I don't actually know what is sent and stored in the PMHC case.
-TODO: In the CIMS case it is up the them.
-
 Additionally the integrator can supply additional 'payload' information to OMSSS
 at the time the measure is created. OMSSS will store this information and pass it
 back to the integrator when the collection is retrieved. This payload is optional

@@ -1,7 +1,5 @@
 .. _overview:
 
-TODO: AC to review
-
 Overview
 ========
 
@@ -63,7 +61,7 @@ into a client management system:
 .. figure:: figures/how-does-omsss-work-example-1.svg
    :alt: How does OMSSS work - Example 1
 
-TODO: Update figures when Bill has approved the examples.
+.. TODO: Update figures when Bill has approved the examples.
 
 Example 2: Outcome measure completed by client at Provider’s service delivery centre
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -83,7 +81,7 @@ collection consent processes need to be built into this process.
 .. figure:: figures/how-does-omsss-work-example-2.svg
    :alt: How does OMSSS work - Example 2
 
-TODO: Update figures when Bill has approved the examples.
+.. TODO: Update figures when Bill has approved the examples.
 
 Features and benefits
 ---------------------
