@@ -44,44 +44,56 @@ existing processes:
 Example 1: Outcome measure sent to client to complete before their first appointment
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-In this example, the process of creating a new 'collection' using the practitioner's
-outcome measure of choice is started by the user of the registration system when
-taking the appointment (for example, a receptionist).  When they send a request
-for a new 'collection', a link will be sent to the client via email or SMS to complete
-the measure. The client will then complete the measure using their own device at home
-or in the waiting room prior to the appointment. The completed questionnaire will then
-automatically be uploaded into the CIMS and optionally a report will be emailed to the
-appropriate service provider. Please remember that data collection consent processes
-still need to be built into this process. The service provider will either need to
-obtain consent from the client before sending the link, or consent will initially
-need to be recorded in the PMHC MDS as ‘No’ and changed to ‘Yes’ after consent
-has been obtained. Here is a diagram outlining how the OMSSS might be integrated
-into a client management system:
+In this example, the process of creating a new ‘collection’ is started by the
+user of the registration system when taking the appointment (for example,
+a receptionist).
+
+1. The client books an appointment with the user of the registration system,
+   for example, by phone.
+2. The user of the registration system enters the CIMS at the time of booking,
+   and creates a new file for the client, which generates a ‘collection’ in OMSSS.
+3. A request for a new ‘collection’ is sent to the client via email or SMS.
+4. The request sent to the client contains a link or QR code to complete the measure.
+5. The client will then complete the measure using their own device at home or
+   in the waiting room prior to the appointment.
+6. The completed questionnaire will then automatically be uploaded into the CIMS
+   and optionally a report will be emailed to the appropriate service provider.
+
+Please remember that data collection consent processes still need to be
+built into this process. The service provider will either need to obtain
+consent from the client before sending the link, or consent will initially
+need to be recorded in the PMHC MDS as ‘No’ and changed to ‘Yes’ after
+consent has been obtained.
+
+Here is a diagram outlining how the OMSSS might be integrated into a
+client management system:
+
 
 .. figure:: figures/how-does-omsss-work-example-1.svg
    :alt: How does OMSSS work - Example 1
-
-.. TODO: Update figures when Bill has approved the examples.
 
 Example 2: Outcome measure completed by client at Provider’s service delivery centre
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 In this example, the process of creating a new ‘collection’ using the
 practitioner’s outcome measure of choice is started by the user of the
-registration system (either a receptionist or a practitioner) when the client
-attends the Provider’s service delivery centre for an appointment. When they
-send a request for a new ‘collection’, a QR code is generated. A mobile device
-such as a tablet can then be used to navigate to the link provided by the QR code.
-The client can be given the tablet to fill out the measure in the waiting room
-or during their appointment. The completed questionnaire will then automatically
-be uploaded into the CIMS and optionally a report will be emailed to the
-appropriate service provider. Once again, please remember that appropriate data
-collection consent processes need to be built into this process.
+registration system (either a receptionist or a practitioner).
+
+1. The client attends the Provider’s service delivery centre for an appointment.
+2. When the user of the registration system sends a request for a new
+   ‘collection’, a QR code is generated.
+3. A mobile device such as a tablet can then be used to navigate to the link
+   provided by the QR code.
+4. The client can be given the tablet to fill out the measure in the waiting
+   room or during their appointment.
+5. The completed questionnaire will then automatically be uploaded into the
+   CIMS and optionally a report will be emailed to the appropriate service provider.
+
+Once again, please remember that appropriate data collection consent processes
+need to be built into this process.
 
 .. figure:: figures/how-does-omsss-work-example-2.svg
    :alt: How does OMSSS work - Example 2
-
-.. TODO: Update figures when Bill has approved the examples.
 
 Features and benefits
 ---------------------
