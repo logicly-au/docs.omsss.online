@@ -18,17 +18,17 @@ Therefore, when used in the context of PMHC MDS, this ensures that no
 identifying information is stored in OMSSS.
 
 Information is stored in OMSSS only while it is in use, and for a limited
-amount of time.  Collection data can only be submitted for up to 7 days after
+amount of time. Collection data can only be submitted for up to 7 days after
 the record has been created, and after a collection has been submitted,
-results are only stored for a maximum of 7 days.  All data except logs are
+results are only stored for a maximum of 7 days. All data except logs are
 automatically deleted after a period of 7 days, and can also be deleted
-earlier at the request of the integrator.  Results pertaining to deleted
+earlier at the request of the integrator. Results pertaining to deleted
 data will be inaccessible after deletion, and the retained logs do not
 contain any personally identifying information.
 
 The integrator can provide additional information to OMSSS when the measure
 is created. OMSSS stores this information and will pass it back to the
-integrator when the collection is retrieved.  The purpose of using this
+integrator when the collection is retrieved. The purpose of using this
 option to provide additional information is to assist the integrator in
 matching the outcome measure with the client’s data.
 
@@ -37,9 +37,9 @@ episode, collection reason and the measure type. The internal IDs only have
 meaning within the data set to which they relate, and are signed for
 additional security.
 
-It is optional to enter additional information as outlined above.  In cases
+It is optional to enter additional information as outlined above. In cases
 where a health care provider’s CIMS is integrated with OMSSS, the integrator
-determines  whether additional detail should be provided, and if so, what.
+determines whether additional detail should be provided, and if so, what.
 The client’s information and the results of their outcome measures may only be
 sent to their health care provider, and are stored in the PMHC MDS, either
 directly or via the health care provider’s CIMS. After the data is stored in
