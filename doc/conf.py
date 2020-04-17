@@ -63,8 +63,8 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'OMSSS Documentation'
-copyright = u'2019, Australian Government - Department of Health'
-author = u'PMHC MDS Working Group'
+copyright = u'Commonwealth of Australia | Department of Health'
+author = u'Commonwealth of Australia | Department of Health'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
