@@ -4,7 +4,7 @@ Licensing arrangements and permitted use
 ========================================
 
 Primary Health Networks (PHNs) and their commissioned Provider Organisations can use
-the OMSSS to collect the mandated outcome measures free of charge when the data is
+the OMSSS to collect the mandated measures free of charge when the data is
 being collected as part of the PMHC MDS.
 
 At this stage, no other use of the OMSSS is permitted. A wider application of

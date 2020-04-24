@@ -9,7 +9,7 @@ What is the Online Measures Self Service System (OMSSS)?
 The OMSSS is an online service funded by the Australian Government Department
 of Health as part of the Primary Mental Health Care Minimum Data Set (PMHC MDS).
 It allows clients of mental health services commissioned
-by Primary Health Networks (PHNs) to complete the standardised outcome measures
+by Primary Health Networks (PHNs) to complete the standardised measures
 mandated in the PMHC MDS and have the results reported back to their service providers.
 The OMSSS offers flexibility in the way that it is implemented, making it more accessible
 to service consumers who will be able to complete the information on their devices,
@@ -27,7 +27,7 @@ What does the OMSSS do?
 -----------------------
 
 The OMSSS is accessed by clients of PHN-commissioned mental health
-services and used to enter outcome measures, for example the Kessler-10 (K10).
+services and used to enter measures, for example the Kessler-10 (K10).
 Subscales and totals are calculated automatically and item scores and totals are uploaded
 into the PMHC MDS or the provider's own CIMS if this has been integrated with the OMSSS
 using the API.  The information can also be provided in a report to the relevant service provider.
@@ -48,7 +48,7 @@ In this example, the process of creating a new ‘collection’ using the measur
 most appropriate for the client is started by the user of the registration system
 when taking the appointment (for example, a receptionist). Clients should be advised
 when their appointment is created, that a link will be sent to them via email or
-SMS inviting them to complete an outcome measure. Reception or other staff should
+SMS inviting them to complete a measure. Reception or other staff should
 be prepared to provide some key information about the reason for the invitation and the
 importance of completing the online measure. :ref:`information-for-patients` provides
 guidance on suitable wording that can be used and possibly incorporated in existing
@@ -59,7 +59,7 @@ documents developed locally to advise clients on the services they can expect to
 2. The user of the registration system enters the CIMS at the time of booking,
    and creates a new file for the client, which generates a ‘collection’ in OMSSS.
 3. The client is advised that a link will be sent to them via email or SMS to complete
-   an outcome measure.
+   a measure.
 3. A request for a new ‘collection’ is sent to the client via email or SMS. The
    invitation to the client will identify their health practitioner (or the
    health practitioner's organisation) as the source.
@@ -71,7 +71,7 @@ documents developed locally to advise clients on the services they can expect to
    measure.
 
 It is important to note that privacy protection and consent requirements applying to
-all data collected apply to outcome measures collected through OMSSS. In many
+all data collected apply to measures collected through OMSSS. In many
 instances, it will not be possible to have discussed the consent process with clients
 prior to their first appointment. In these instances, the consent flag on the client's
 record in the PMHC MDS should be recorded as 'No' and changed to 'Yes' after consent
@@ -130,7 +130,7 @@ support regular collection with the following features and benefits:
 *  Significant reduction in data entry for staff
 *  Automated scoring and integration with PMHC MDS / CIMS reduces risk of data
    entry and scoring errors
-*  An extensible system that can support outcome measures in addition to those
+*  An extensible system that can support measures in addition to those
    specified in the PMHC MDS
 *  An intuitive, accessible client interface that is supported on a range of devices
 *  Greater insight provided into clients’ progress and the efficacy of

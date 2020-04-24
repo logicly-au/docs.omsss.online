@@ -3,7 +3,7 @@
 Guidance on Information for Patients
 ====================================
 
-It is essential that clients are told in advance of receiving a request to complete an outcome
+It is essential that clients are told in advance of receiving a request to complete a
 measure through the OMSSS process about the reasons for the request and who the
 information is being requested by. The wording below is suggested as a basis for PHNs to
 use, or promote to commissioned providers to use, in informing clients. PHNs and service

@@ -10,7 +10,7 @@ and the Australian Privacy Principles. This includes encrypting all information
 in transit and ensuring that only appropriate and approved people have access
 to that information.
 
-The collection of client outcome measures through the OMSSS as implemented by the
+The collection of client measures through the OMSSS as implemented by the
 PMHC MDS complies with the Commonwealth Privacy Act 1988 and
 the Australian Privacy Principles. Organisations utilising the OMSSS API to
 collect measures directly are responsible for ensuring appropriate legislative
@@ -35,7 +35,7 @@ The integrator can provide additional information to OMSSS when the measure
 is created. OMSSS stores this information and will pass it back to the
 integrator when the collection is retrieved. The purpose of using this
 option to provide additional information is to assist the integrator in
-matching the outcome measure with the client’s data.
+matching the measure with the client’s data.
 
 It is optional to enter additional information as outlined above.  In cases
 where a health care provider’s CIMS is integrated with OMSSS, the integrator

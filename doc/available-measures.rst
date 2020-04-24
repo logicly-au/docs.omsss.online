@@ -1,11 +1,11 @@
-.. _available-outcome-measures:
+.. _available-measures:
 
-Available outcome measures
---------------------------
+Available measures
+------------------
 
 Subject to the permitted uses described below, OMSSS can be used by PHNs and
 their commissioned provider organisations to collect any of the following
-outcome measures mandated in the PMHC MDS:
+measures mandated in the PMHC MDS:
 
 * `Kessler 5 (K5) <https://pmhc-mds.com/doc/pmhc-scoring-k5.pdf>`_
 * `Kessler 10 Plus (K10+) <https://pmhc-mds.com/doc/pmhc-scoring-k10p.pdf>`_

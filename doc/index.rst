@@ -16,7 +16,7 @@ system. All enquiries should be directed to: support@pmhc-mds.com.
    :maxdepth: 1
 
    overview
-   pmhc-outcome-measures
+   available-measures
    licensing-arrangements
    api
    data-security-privacy
