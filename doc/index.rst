@@ -1,5 +1,5 @@
-Outcome Measures Self Service System
-====================================
+Online Measures Self Service System
+===================================
 
 Version |version|
 
