@@ -20,5 +20,5 @@ system. All enquiries should be directed to: support@pmhc-mds.com.
    licensing-arrangements
    api
    data-security-privacy
-   information-for-patients
+   information-for-clients
    change-log

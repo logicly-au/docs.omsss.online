@@ -19,4 +19,4 @@ measures mandated in the PMHC MDS:
   * YR1 - Youth self report measure (11-17), Baseline Australian version, and
   * YR2 - Youth self report measure (11-17), Follow up Australian version
 
-Copies of each of the measures can be downloaded at `https://pmhc-mds.com/resources/<https://pmhc-mds.com/resources/>`_
+Copies of each of the measures can be downloaded at `https://pmhc-mds.com/resources/ <https://pmhc-mds.com/resources/>`_
