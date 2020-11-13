@@ -6,7 +6,10 @@ Data Security and Privacy
 Client privacy is important and is the responsibility of PHNs, service providers,
 and the Department of Health to ensure that all client information is managed
 appropriately and in accordance with respective obligations under legislation
-and the Australian Privacy Principles. This includes encrypting all information
+and the Australian Privacy Principles. Personal information of clients, and
+the results of their  measures will be sent only to their health care provider.
+All entered data is communicated and stored in compliance with Australian
+privacy and data security legislation. This includes encrypting all information
 in transit and ensuring that only appropriate and approved people have access
 to that information.
 
