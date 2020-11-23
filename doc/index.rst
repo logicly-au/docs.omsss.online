@@ -21,4 +21,5 @@ system. All enquiries should be directed to: support@pmhc-mds.com.
    api
    data-security-privacy
    guidance-for-clients
+   info-for-clients
    change-log
