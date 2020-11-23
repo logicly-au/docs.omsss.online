@@ -1,4 +1,4 @@
-.. _information-for-clients:
+.. _guidance-for-clients:
 
 Guidance on Information for clients
 ====================================

@@ -50,7 +50,7 @@ when taking the appointment (for example, a receptionist). Clients should be adv
 when their appointment is created, that a link will be sent to them via email or
 SMS inviting them to complete a measure. Reception or other staff should
 be prepared to provide some key information about the reason for the invitation and the
-importance of completing the online measure. :ref:`information-for-clients` provides
+importance of completing the online measure. :ref:`guidance-for-clients` provides
 guidance on suitable wording that can be used and possibly incorporated in existing
 information documents developed locally to advise clients on the services they
 can expect to receive.
@@ -95,7 +95,7 @@ measure selected as most appropriate for the client is started by the user of th
 registration system (either a receptionist or a practitioner) when the client
 attends the service. As per Example 1, it is essential that clients be advised
 about the reason for the invitation to complete the questionnaire, using the
-guidance wording suggested at :ref:`information-for-clients`.
+guidance wording suggested at :ref:`guidance-for-clients`.
 
 1. The client attends the health practitioner’s service delivery centre for an appointment.
    This might be the client's first or a subsequent appointment.
