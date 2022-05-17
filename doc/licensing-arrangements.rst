@@ -13,9 +13,10 @@ OMSSS in primary mental health care may be considered in the future.
 K10+ and K5
 -----------
 
-Both the K10+ and K5 measures are in the public domain and may be used freely.
-Each of these measures is used widely throughout Australia with no restrictions
-on their incorporation in electronic data collection systems.
+Both the K10+ and K5 measures are in the public domain and may be used freely
+as long as the author is properly referenced. Each of these measures is used
+widely throughout Australia with no restrictions on their incorporation in
+electronic data collection systems.
 
 SDQ
 ---
