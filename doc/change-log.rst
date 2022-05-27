@@ -3,9 +3,19 @@
 Change log
 ==========
 
-Significant updates to this documentation are noted here.
+27/5/2022
+---------
 
-2019-11-21
+* Updated
+
+  * :ref:`overview`
+  * :ref:`licensing-arrangements`
+  * :ref:`guidance-for-clients`
+  * :ref:`info-for-clients`
+
+to be in line with Department of Health circular.
+
+21/11/2019
 ----------
 
 * Initial release

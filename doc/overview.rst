@@ -7,35 +7,40 @@ What is the Online Measures Self Service System (OMSSS)?
 ---------------------------------------------------------
 
 The OMSSS is an online service funded by the Australian Government Department
-of Health as part of the Primary Mental Health Care Minimum Data Set (PMHC MDS).
-It allows clients of mental health services commissioned
-by Primary Health Networks (PHNs) to complete the standardised measures
-mandated in the PMHC MDS and have the results reported back to their service providers.
-The OMSSS offers flexibility in the way that it is implemented, making it more accessible
-to service consumers who will be able to complete the information on their devices,
-at a time that suits them, and will replace the current 'paper and pencil' systems
-currently in place in many organisations. It is also adaptable to the existing processes
-of each provider organisation, integrating with a range of local third party client information
-management systems (CIMS).
+of Health (the department) as part of the Primary Mental Health Care Minimum
+Data Set (PMHC MDS). It allows clients of PHN-commissioned mental health services
+to complete the standardised measures mandated in the PMHC MDS and have the
+results reported back to their service providers.
 
-The OMSSS has been integrated into the PMHC MDS or can
-be integrated into a Healthcare Provider’s own CIMS via an Application Programming Interface (API).
-Clients can complete the measure in their own homes or on their own mobile devices before or between
-appointments, or on the provider's device where services are provided.
+The OMSSS offers flexibility in the way that outcome measures are collected,
+making it more accessible to service consumers who will be able to complete
+the information on their devices, at a time that suits them. The system can
+replace the current 'paper and pencil' systems currently in place in many
+organisations. It is also adaptable to the existing processes
+of each provider organisation, integrating with a range of local third-party
+client information management systems (CIMS) via an Application Programming
+Interface (API). More information is available at the OMSSS REST API
+website: `https://api.omsss.online/ <https://api.omsss.online/>`_.
 
-What does the OMSSS do?
------------------------
-
-The OMSSS is accessed by clients of PHN-commissioned mental health
-services and used to enter measures, for example the Kessler-10 (K10).
-Subscales and totals are calculated automatically and item scores and totals are uploaded
-into the PMHC MDS or the provider's own CIMS if this has been integrated with the OMSSS
-using the API.  The information can also be provided in a report to the relevant service provider.
-This automation reduces the administrative workload of clinical staff and minimises the chance of
-errors.
+Subject to the permitted uses described below, the OMSSS can be used by PHNs
+and their commissioned provider organisations to collect any of the following
+outcome measures mandated in the PMHC MDS: Kessler 5 (K5),
+Kessler 10 Plus (K10+), Strengths and Difficulties Questionnaire (SDQ).
+Additionally, the YES PHN survey can be collected through the OMSSS.
+Information about these measures can be found at:
+`https://pmhc-mds.com/resources/ <https://pmhc-mds.com/resources/>`_.
 
 How does it work?
 -----------------
+
+The OMSSS is accessed by clients of PHN-commissioned mental health services
+and used to enter outcome measures, for example the Kessler-10 Plus (K10+).
+The item scores are automatically totalled and made available to the PMHC MDS
+or the provider’s CIMS. It should be noted that the item scores and totals
+will only be uploaded into a provider’s CIMS if the CIMS have been integrated
+with the OMSSS using the API. The information can also be provided in a report
+to the relevant service provider. This automation reduces the administrative
+workload of clinical staff and minimises the chance of errors.
 
 The OMSSS has been designed to be flexible and work within the differing processes of
 many service providers. Below are a couple of examples of how OMSSS might be integrated into
@@ -114,25 +119,28 @@ guidance wording suggested at :ref:`guidance-for-clients`.
 
    How does OMSSS work - Example 2 - Measure completed by client at health practitioner's service delivery centre
 
+
 Features and benefits
 ---------------------
 
 Regular monitoring by service providers of client outcomes using standardised
 measures is critical to informing treatment decisions and ongoing dialogue
-between service providers and their clients. Reporting on client outcomes is a
-fundamental requirement of the PMHC MDS, and the OMSSS has been developed to
-support regular collection with the following features and benefits:
+between service providers and their clients.
 
-*  Flexibility for the OMSSS to be implemented in a way that suits the
-   provider's ways of working and preferred approach to client completion of the measure
-*  Flexibility regarding the treatment of completed questionnaires.  Subscales
-   can be uploaded to the PMHC MDS, the provider's own CIMS (if integrated with
-   the OMSSS using the API), and reports can be emailed directly to the relevant psychologist.
-*  Significant reduction in data entry for staff
-*  Automated scoring and integration with PMHC MDS / CIMS reduces risk of data
-   entry and scoring errors
-*  An extensible system that can support measures in addition to those
-   specified in the PMHC MDS
-*  An intuitive, accessible client interface that is supported on a range of devices
-*  Greater insight provided into clients’ progress and the efficacy of
-   treatments over a period of time
+Reporting on client outcomes is a fundamental requirement of the PMHC MDS,
+and the OMSSS has been developed to support regular collection with the
+following features and benefits:
+
+* Enables clients to complete measures in their own time and on their own
+  device which may improve completion rates
+* Provide greater insight into clients’ progress and the efficacy of treatments
+* Flexibility for the OMSSS to be implemented in a way that suits the
+  provider’s ways of working and preferred approach to client completion of
+  measures
+* Flexibility regarding the treatment of completed questionnaires.
+  Subscales can be uploaded to the PMHC MDS, the provider’s own CIMS
+  (if integrated with the OMSSS using the API), and reports can be emailed
+  directly to the relevant practitioner
+* Significant reduction in data entry for staff, and
+* Automated scoring and integration with the PMHC MDS / CIMS reduce the risk
+  of data entry and scoring errors.
